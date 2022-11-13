@@ -65,7 +65,7 @@ while True:
         sys.exit()
 
     pygame.display.update()
-    clock.tick(5)
+    clock.tick(8)
 
 
 
